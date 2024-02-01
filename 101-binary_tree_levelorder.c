@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-
+#include <stdlib.h>
 
 /**
  * binary_tree_levelorder - Traverses a binary tree using level-order raversal
